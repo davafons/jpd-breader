@@ -36,7 +36,8 @@
                 "*://anacreondjt.gitlab.io/texthooker.html",
                 "*://learnjapanese.moe/texthooker.html",
                 "*://kamwithk.github.io/exSTATic/tracker.html",
-                "*://renji-xd.github.io/texthooker-ui/"
+                "*://renji-xd.github.io/texthooker-ui/",
+                "*://davafons.github.io/texthooker-ui/"
             ],
             "js": ["integrations/anacreon.js"],
             "css": ["content/word.css"]
@@ -100,6 +101,7 @@
         "*://learnjapanese.moe/texthooker.html",
         "*://kamwithk.github.io/exSTATic/tracker.html",
         "*://renji-xd.github.io/texthooker-ui/",
+        "*://davafons.github.io/texthooker-ui/",
         "file:///*mokuro*.html",
         "*://ja.wikipedia.org/*",
         "*://ja.m.wikipedia.org/*",
